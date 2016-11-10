@@ -1,7 +1,7 @@
 {
   "name": "react-starter",
   "version": "1.0.0",
-  "description": "A simple and lightweight Boilerplate for React + Redux + Express",
+  "description": "A simple and lightweight Boilerplate for React + Express",
   "main": "webpack.config.js",
   "scripts": {
     "start": "cross-env NODE_ENV=development nodemon src/server/index.js",
